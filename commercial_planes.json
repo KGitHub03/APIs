@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Boeing Next-Generation 737",
+    "cost": 82000000,
+    "speed": 876,
+    "seats": 220
+  },
+  {
+    "name": "Boeing 747-8",
+    "cost": 418000000,
+    "speed": 987,
+    "seats": 410
+  },
+  {
+    "name": "Boeing 777-300ER",
+    "cost": 375000000,
+    "speed": 945,
+    "seats": 396
+  },
+  {
+    "name": "Boeing 787-10 Dreamliner",
+    "cost": 338400000,
+    "speed": 954,
+    "seats": 336
+  }
+]
