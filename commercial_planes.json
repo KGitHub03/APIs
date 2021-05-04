@@ -23,4 +23,34 @@
     "speed": 954,
     "seats": 336
   }
+  {
+    "name": "Airbus A220-300",
+    "cost": 91000000,
+    "speed": 828,
+    "seats": 336
+  },
+  {
+    "name": "Airbus A321neo",
+    "cost": 115000000,
+    "speed": 876,
+    "seats": 244
+  },
+  {
+    "name": "Airbus A330-900",
+    "cost": 296000000,
+    "speed": 919,
+    "seats": 440
+  },
+  {
+    "name": "Airbus A350-1000",
+    "cost": 366000000,
+    "speed": 945,
+    "seats": 440
+  },
+  {
+    "name": "Airbus A380-800",
+    "cost": 445000000,
+    "speed": 1087,
+    "seats": 440
+  },
 ]
