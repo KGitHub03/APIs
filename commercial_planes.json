@@ -3,54 +3,63 @@
     "name": "Boeing Next-Generation 737",
     "cost": 82000000,
     "speed": 876,
-    "seats": 220
+    "seats": 220,
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Delta_Air_Lines_Boeing_737-832%3B_N3747D%40LAX%3B10.10.2011_622in_%286482376485%29.jpg"
   },
   {
     "name": "Boeing 747-8",
     "cost": 418000000,
     "speed": 987,
-    "seats": 410
+    "seats": 410,
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lufthansa_Boeing_747-830_KvW-1.jpg"
   },
   {
     "name": "Boeing 777-300ER",
     "cost": 375000000,
     "speed": 945,
-    "seats": 396
+    "seats": 396,
+    "pic": ""
   },
   {
     "name": "Boeing 787-10 Dreamliner",
     "cost": 338400000,
     "speed": 954,
-    "seats": 336
+    "seats": 336,
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg"
   },
   {
     "name": "Airbus A220-300",
     "cost": 91000000,
     "speed": 828,
-    "seats": 160
+    "seats": 160,
+    "pic": "https://airbus-h.assetsadobe2.com/is/image/content/dam/products-and-solutions/commercial-aircraft/a220-family/a220-300/Airbus-A220-300-2.jpg?wid=1920&fit=fit,1&qlt=85,0"
   },
   {
     "name": "Airbus A321neo",
     "cost": 115000000,
     "speed": 876,
-    "seats": 244
+    "seats": 244,
+    "pic": "https://airbus-h.assetsadobe2.com/is/image/content/dam/products-and-solutions/commercial-aircraft/a320-family/a321neo/A321LR-in-flight-004.jpg?wid=1920&fit=fit,1&qlt=85,0"
   },
   {
     "name": "Airbus A330-900",
     "cost": 296000000,
     "speed": 919,
-    "seats": 440
+    "seats": 440,
+    "pic": ""
   },
   {
     "name": "Airbus A350-1000",
     "cost": 366000000,
     "speed": 945,
-    "seats": 351
+    "seats": 351,
+    "pic": ""
   },
   {
     "name": "Airbus A380-800",
     "cost": 445000000,
     "speed": 1087,
-    "seats": 853
+    "seats": 853,
+    "pic": ""
   }
 ]
