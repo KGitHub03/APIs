@@ -4,6 +4,7 @@
     "cost": 82000000,
     "speed": 876,
     "seats": 220,
+    "economy": 0.4,
     "pic": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Delta_Air_Lines_Boeing_737-832%3B_N3747D%40LAX%3B10.10.2011_622in_%286482376485%29.jpg"
   },
   {
@@ -11,6 +12,7 @@
     "cost": 418000000,
     "speed": 987,
     "seats": 410,
+    "economy": 0.12,
     "pic": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lufthansa_Boeing_747-830_KvW-1.jpg"
   },
   {
@@ -18,6 +20,7 @@
     "cost": 375000000,
     "speed": 945,
     "seats": 396,
+    "economy": 0.17,
     "pic": "https://cdn.businesstraveller.com/wp-content/uploads/fly-images/927692/Boeing-777-300ER-v2-916x516.jpg"
   },
   {
@@ -25,6 +28,7 @@
     "cost": 338400000,
     "speed": 954,
     "seats": 336,
+    "economy": 0.22,
     "pic": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg"
   },
   {
@@ -32,6 +36,7 @@
     "cost": 91000000,
     "speed": 828,
     "seats": 160,
+    "economy": 0.4,
     "pic": "https://airbus-h.assetsadobe2.com/is/image/content/dam/products-and-solutions/commercial-aircraft/a220-family/a220-300/Airbus-A220-300-2.jpg?wid=1920&fit=fit,1&qlt=85,0"
   },
   {
@@ -53,6 +58,7 @@
     "cost": 366000000,
     "speed": 945,
     "seats": 351,
+    "economy": 0.21,
     "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/A350XWB-Demo.jpg/1280px-A350XWB-Demo.jpg"
   },
   {
@@ -60,6 +66,7 @@
     "cost": 445000000,
     "speed": 1087,
     "seats": 853,
+    "economy": 0.12,
     "pic": "https://upload.wikimedia.org/wikipedia/commons/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg"
   }
 ]
