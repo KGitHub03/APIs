@@ -5,6 +5,7 @@
     "speed": 876,
     "seats": 220,
     "economy": 0.4,
+    "capacity": 6875;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Delta_Air_Lines_Boeing_737-832%3B_N3747D%40LAX%3B10.10.2011_622in_%286482376485%29.jpg"
   },
   {
@@ -13,6 +14,7 @@
     "speed": 987,
     "seats": 410,
     "economy": 0.12,
+    "capacity": 64225;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lufthansa_Boeing_747-830_KvW-1.jpg"
   },
   {
@@ -21,6 +23,7 @@
     "speed": 945,
     "seats": 396,
     "economy": 0.17,
+    "capacity": 47890;
     "pic": "https://cdn.businesstraveller.com/wp-content/uploads/fly-images/927692/Boeing-777-300ER-v2-916x516.jpg"
   },
   {
@@ -29,6 +32,7 @@
     "speed": 954,
     "seats": 336,
     "economy": 0.22,
+    "capacity": 36384;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg"
   },
   {
@@ -37,6 +41,7 @@
     "speed": 828,
     "seats": 160,
     "economy": 0.4,
+    "capacity": 5681;
     "pic": "https://airbus-h.assetsadobe2.com/is/image/content/dam/products-and-solutions/commercial-aircraft/a220-family/a220-300/Airbus-A220-300-2.jpg?wid=1920&fit=fit,1&qlt=85,0"
   },
   {
@@ -45,6 +50,7 @@
     "speed": 876,
     "seats": 244,
     "economy": 0.36;
+    "capacity": 8701;
     "pic": "https://airbus-h.assetsadobe2.com/is/image/content/dam/products-and-solutions/commercial-aircraft/a320-family/a321neo/A321LR-in-flight-004.jpg?wid=1920&fit=fit,1&qlt=85,0"
   },
   {
@@ -53,6 +59,7 @@
     "speed": 919,
     "seats": 440,
     "economy": 0.27;
+    "capacity": 36743;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Airbus_A330neo_F-WTTN_29.jpg"
   },
   {
@@ -61,6 +68,7 @@
     "speed": 945,
     "seats": 351,
     "economy": 0.21,
+    "capacity": 42003;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/A350XWB-Demo.jpg/1280px-A350XWB-Demo.jpg"
   },
   {
@@ -69,6 +77,7 @@
     "speed": 1087,
     "seats": 853,
     "economy": 0.12,
+    "capacity": 84535;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg"
   }
 ]
