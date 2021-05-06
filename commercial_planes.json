@@ -44,6 +44,7 @@
     "cost": 115000000,
     "speed": 876,
     "seats": 244,
+    "economy": 0.36;
     "pic": "https://airbus-h.assetsadobe2.com/is/image/content/dam/products-and-solutions/commercial-aircraft/a320-family/a321neo/A321LR-in-flight-004.jpg?wid=1920&fit=fit,1&qlt=85,0"
   },
   {
@@ -51,6 +52,7 @@
     "cost": 296000000,
     "speed": 919,
     "seats": 440,
+    "economy": 0.27;
     "pic": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Airbus_A330neo_F-WTTN_29.jpg"
   },
   {
