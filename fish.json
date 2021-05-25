@@ -3,6 +3,14 @@
     "name": "Siamese Fighting Fish (Betta)",
     "size": 2.5,
     "tank-size": 5,
-    ""
+    "aggression": "males",
+    "price": 10
+  }
+  {
+    "name": "Koi",
+    "size": 13.5,
+    "tank-size": 50,
+    "aggression": "males",
+    "price": 10
   }
 ]
