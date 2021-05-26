@@ -5,54 +5,54 @@
     "tank_size": 5,
     "aggressive": 1,
     "price": 10
-  }
+  },
   {
-'name':'Angelfish'
-'size':'6'
-'tank_size':'20'
-'aggression':'0'
-'price':'12.5'
-}
-{
-'name':'Barbs'
-'size':'3.9'
-'tank_size':'30'
-'aggression':'1'
-'price':'3.99'
-}
-{
-'name':'Bettas'
-'size':'2.375'
-'tank_size':'3'
-'aggression':'1'
-'price':'12'
-}
-{
-'name':'African Cichlids'
-'size':'12'
-'tank_size':'30'
-'aggression':'1'
-'price':'10'
-}
-{
-'name':'South American Cichlids'
-'size':'9'
-'tank_size':'29'
-'aggression':'1'
-'price':'41'
-}
-{
-'name':'Corycats'
-'size':'2.5'
-'tank_size':'10'
-'aggression':'0'
-'price':'3.75'
-}
-{
-'name':'Danios'
-'size':'3.5'
-'tank_size':'10'
-'aggression':'1'
-'price':'1.99'
-}
+  'name':'Angelfish'
+  'size':'6'
+  'tank_size':'20'
+  'aggression':'0'
+  'price':'12.5'
+  },
+  {
+  'name':'Barbs'
+  'size':'3.9'
+  'tank_size':'30'
+  'aggression':'1'
+  'price':'3.99'
+  },
+  {
+  'name':'Bettas'
+  'size':'2.375'
+  'tank_size':'3'
+  'aggression':'1'
+  'price':'12'
+  },
+  {
+  'name':'African Cichlids'
+  'size':'12'
+  'tank_size':'30'
+  'aggression':'1'
+  'price':'10'
+  },
+  {
+  'name':'South American Cichlids'
+  'size':'9'
+  'tank_size':'29'
+  'aggression':'1'
+  'price':'41'
+  },
+  {
+  'name':'Corycats'
+  'size':'2.5'
+  'tank_size':'10'
+  'aggression':'0'
+  'price':'3.75'
+  },
+  {
+  'name':'Danios'
+  'size':'3.5'
+  'tank_size':'10'
+  'aggression':'1'
+  'price':'1.99'
+  },
 ]
