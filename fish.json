@@ -1,177 +1,177 @@
 [
+{
+  "name":"Angelfish",
+  "size":6,
+  "tank_size":20,
+  "aggression":0,
+  "price":12.5
+  },
   {
-'name':'Angelfish'
-'size':6,
-'tank_size':20,
-'aggression':0,
-'price':12.5,
-},
-{
-'name':'Barbs'
-'size':4,
-'tank_size':30,
-'aggression':1,
-'price':4,
-},
-{
-'name':'Bettas'
-'size':2.5,
-'tank_size':3,
-'aggression':1,
-'price':12,
-},
-{
-'name':'African Cichlids'
-'size':12,
-'tank_size':30,
-'aggression':1,
-'price':10,
-},
-{
-'name':'South American Cichlids'
-'size':9,
-'tank_size':29,
-'aggression':1,
-'price':41,
-},
-{
-'name':'Corycats'
-'size':2.5,
-'tank_size':10,
-'aggression':0,
-'price':4,
-},
-{
-'name':'Danios'
-'size':3.5,
-'tank_size':10,
-'aggression':1,
-'price':2,
-},
-{
-'name':'Minnows'
-'size':2.5,
-'tank_size':10,
-'aggression':0,
-'price':12.5,
-},
-{
-'name':'Discus'
-'size':5.4,
-'tank_size':50,
-'aggression':1,
-'price':85,
-},
-{
-'name':'Eels'
-'size':24,
-'tank_size':40,
-'aggression':1,
-'price':50,
-},
-{
-'name':'Goldfish'
-'size':4.5,
-'tank_size':20,
-'aggression':0,
-'price':6,
-},
-{
-'name':'Gouramis'
-'size':12,
-'tank_size':75,
-'aggression':1,
-'price':2.75,
-},
-{
-'name':'Guppies'
-'size':2,
-'tank_size':5,
-'aggression':1,
-'price':12.55,
-},
-{
-'name':'Koi'
-'size':13.5,
-'tank_size':50,
-'aggression':0,
-'price':10005,
-},
-{
-'name':'Loaches'
-'size':1.5,
-'tank_size':20,
-'aggression':1,
-'price':3,
-},
-{
-'name':'Mollies'
-'size':4.5,
-'tank_size':10,
-'aggression':1,
-'price':3.5,
-},
-{
-'name':'Oscars'
-'size':14,
-'tank_size':55,
-'aggression':1,
-'price':54,
-},
-{
-'name':'Platies'
-'size':2.5,
-'tank_size':15,
-'aggression':0,
-'price':2,
-},
-{
-'name':'Plecostomus'
-'size':15,
-'tank_size':77,
-'aggression':1,
-'price':7.5,
-},
-{
-'name':'Rainbow Fish'
-'size':4.5,
-'tank_size':50,
-'aggression':1,
-'price':80,
-},
-{
-'name':'Rasbora'
-'size':2.5,
-'tank_size':10,
-'aggression':0,
-'price':3,
-},
-{
-'name':'Swordtails'
-'size':5.5,
-'tank_size':15,
-'aggression':0,
-'price':3.8,
-},
-{
-'name':'Tetras'
-'size':2,
-'tank_size':15,
-'aggression':0,
-'price':3,
-},
-{
-'name':'Shrimp'
-'size':2,
-'tank_size':10,
-'aggression':0,
-'price':7,
-},
-{
-'name':'Crab'
-'size':4,
-'tank_size':5,
-'aggression':1,
-'price':35,
-},
+  "name":"Barbs",
+  "size":4,
+  "tank_size":30,
+  "aggression":1,
+  "price":4
+  },
+  {
+  "name":"Bettas",
+  "size":2.5,
+  "tank_size":3,
+  "aggression":1,
+  "price":12
+  },
+  {
+  "name":"African Cichlids",
+  "size":12,
+  "tank_size":30,
+  "aggression":1,
+  "price":10
+  },
+  {
+  "name":"South American Cichlids",
+  "size":9,
+  "tank_size":29,
+  "aggression":1,
+  "price":41
+  },
+  {
+  "name":"Corycats",
+  "size":2.5,
+  "tank_size":10,
+  "aggression":0,
+  "price":4
+  },
+  {
+  "name":"Danios",
+  "size":3.5,
+  "tank_size":10,
+  "aggression":1,
+  "price":2
+  },
+  {
+  "name":"Minnows",
+  "size":2.5,
+  "tank_size":10,
+  "aggression":0,
+  "price":12.5
+  },
+  {
+  "name":"Discus",
+  "size":5.4,
+  "tank_size":50,
+  "aggression":1,
+  "price":85
+  },
+  {
+  "name":"Eels",
+  "size":24,
+  "tank_size":40,
+  "aggression":1,
+  "price":50
+  },
+  {
+  "name":"Goldfish",
+  "size":4.5,
+  "tank_size":20,
+  "aggression":0,
+  "price":6
+  },
+  {
+  "name":"Gouramis",
+  "size":12,
+  "tank_size":75,
+  "aggression":1,
+  "price":2.75
+  },
+  {
+  "name":"Guppies",
+  "size":2,
+  "tank_size":5,
+  "aggression":1,
+  "price":12.55
+  },
+  {
+  "name":"Koi",
+  "size":13.5,
+  "tank_size":50,
+  "aggression":0,
+  "price":10005
+  },
+  {
+  "name":"Loaches",
+  "size":1.5,
+  "tank_size":20,
+  "aggression":1,
+  "price":3
+  },
+  {
+  "name":"Mollies",
+  "size":4.5,
+  "tank_size":10,
+  "aggression":1,
+  "price":3.5
+  },
+  {
+  "name":"Oscars",
+  "size":14,
+  "tank_size":55,
+  "aggression":1,
+  "price":54
+  },
+  {
+  "name":"Platies",
+  "size":2.5,
+  "tank_size":15,
+  "aggression":0,
+  "price":2
+  },
+  {
+  "name":"Plecostomus",
+  "size":15,
+  "tank_size":77,
+  "aggression":1,
+  "price":7.5
+  },
+  {
+  "name":"Rainbow Fish",
+  "size":4.5,
+  "tank_size":50,
+  "aggression":1,
+  "price":80
+  },
+  {
+  "name":"Rasbora",
+  "size":2.5,
+  "tank_size":10,
+  "aggression":0,
+  "price":3
+  },
+  {
+  "name":"Swordtails",
+  "size":5.5,
+  "tank_size":15,
+  "aggression":0,
+  "price":3.8
+  },
+  {
+  "name":"Tetras",
+  "size":2,
+  "tank_size":15,
+  "aggression":0,
+  "price":3
+  },
+  {
+  "name":"Shrimp",
+  "size":2,
+  "tank_size":10,
+  "aggression":0,
+  "price":7
+  },
+  {
+  "name":"Crab",
+  "size":4,
+  "tank_size":5,
+  "aggression":1,
+  "price":35
+  }
 ]
