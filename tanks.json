@@ -1,0 +1,58 @@
+[
+  {
+    "name": "3 Gallon Tank",
+    "size": 3,
+    "rating": 4,
+    "price": 50,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/91tVlPurwhL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "5 Gallon Tank",
+    "size": 5,
+    "rating": 4.5,
+    "price": 60,
+    "img_url": "https://m.media-amazon.com/images/I/91SL+Xl1h0L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "10 Gallon Tank",
+    "size": 10,
+    "rating": 4.5,
+    "price": 100,
+    "img_url": "https://m.media-amazon.com/images/I/818ndtmsnLL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "15 Gallon Tank",
+    "size": 16,
+    "rating": 4.5,
+    "price": 250,
+    "img_url": "https://i.redd.it/y9hqlbmvm7j11.jpg"
+  },
+  {
+    "name": "20 Gallon Tank",
+    "size": 20,
+    "rating": 4.5,
+    "price": 385,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/71-1y5AeZML._AC_SL1500_.jpg"
+  },
+  {
+    "name": "29 Gallon Tank",
+    "size": 29,
+    "rating": 4,
+    "price": 360,
+    "img_url": "https://m.media-amazon.com/images/I/51pQ8R2Zt4L._AC_.jpg"
+  },
+  {
+    "name": "40 Gallon Tank",
+    "size": 40,
+    "rating": 4,
+    "price": 690,
+    "img_url": "https://m.media-amazon.com/images/I/416y5lZ30BL._AC_.jpg"
+  },
+  {
+    "name": "50 Gallon Tank",
+    "size": 50,
+    "rating": 4,
+    "price": 710,
+    "img_url": "https://m.media-amazon.com/images/I/51hFYzPh1uL._AC_.jpg"
+  }
+]
