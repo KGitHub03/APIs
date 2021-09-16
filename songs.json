@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Song 1",
+        "genre": "Bhajan",
+        "singer": "singer 1",
+        "about": "Ram",
+        "lyrics": "Ram Ram Ram Ram Ram Ram Ram Ram Ram Ram"
+    },
+    {
+        "name": "Song 2",
+        "genre": "Bhajan",
+        "singer": "singer 1",
+        "about": "Ganapati",
+        "lyrics": "Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati"
+    },
+    {
+        "name": "Song 3",
+        "genre": "Bhajan",
+        "singer": "singer 2",
+        "about": "ryvhy",
+        "lyrics": "ryvhy ryvhy ryvhy ryvhy ryvhy ryvhy ryvhy ryvhy ryvhy ryvhy"
+    },
+    {
+        "name": "Song 4",
+        "genre": "Bhajan",
+        "singer": "singer 2",
+        "about": "Ganapati",
+        "lyrics": "Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati Ganapati"
+    },
+]
