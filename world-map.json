@@ -24,5 +24,46 @@
             "The Ancient Egyptians Build the Great Pyramid of Giza for Pharaoh Khufu"
          ]
       ]
-   }
+   },
+   {
+      "yr":-1750,
+      "data":[
+         [
+            "Country", 
+            "Events"
+         ],
+         [
+            "Iraq", 
+            "Babylonian King Hammurabi Issues the Code of Hammurabi, One of the Earliest Legal Codes"
+         ]
+      ]
+   },
+   {
+      "yr":-800,
+      "data":[
+         [
+            "Country", 
+            "Events"
+         ],
+         [
+            "Greece", 
+            "The Rise of Ancient Greek Civilization"
+         ]
+      ]
+   },
+   {
+      "yr":-750,
+      "data":[
+         [
+            "Country", 
+            "Events"
+         ],
+         [
+            "Greece", 
+            "The Rise of Ancient Greek Civilization",
+            "Italy",
+            "The Rise of Ancient Roman Civilization"
+         ]
+      ]
+   },
 ]
