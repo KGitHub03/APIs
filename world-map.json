@@ -2,8 +2,14 @@
    {
       "yr":-4000,
       "data":[
-         ["Country", "Events"],
-         ["Iraq", "The First Cities Emerge in Mesopotamia"]
+         [
+            "Country", 
+            "Events"
+         ],
+         [
+            "Iraq", 
+            "The First Cities Emerge in Mesopotamia"
+         ]
       ]
    }
 ]
