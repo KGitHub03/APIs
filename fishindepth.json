@@ -3,36 +3,308 @@
     "type": "Corydora",
     "name": "Pygmy Corydoras",
     "size": 1,
-    "price": 4
+    "price": 4,
+    "rarity": "Rare"
   },
   {
     "type": "Corydora",
     "name": "Panda Cory",
     "size": 2,
-    "price": 8
+    "price": 8,
+    "rarity": "Uncommon"
   },
   {
     "type": "Corydora",
     "name": "Salt and Pepper Corydora",
     "size": 1,
-    "price": 6
+    "price": 6,
+    "rarity": "Uncommon"
   },
   {
     "type": "Corydora",
     "name": "Sterbai Corydora",
     "size": 3,
-    "price": 7
+    "price": 7,
+    "rarity": "Rare"
   },
   {
     "type": "Corydora",
     "name": "Julii Corydora",
     "size": 2,
-    "price": 4.5
+    "price": 4.5,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Plecostomus",
+    "name": "Bristlenose Pleco",
+    "size": 5,
+    "price": 15,
+    "rarity": "Common"
   },
   {
     "type": "Plecostomus",
     "name": "Common Pleco",
-    "size": "1",
-    "price": 6
+    "size": 20,
+    "price": 4,
+    "rarity": "Common"
+  },
+  {
+    "type": "Plecostomus",
+    "name": "Zebra Pleco",
+    "size": 4,
+    "price": 400,
+    "rarity": "Legendary"
+  },
+  {
+    "type": "Catfish",
+    "name": "Redtail Catfish",
+    "size": 48,
+    "price": 35,
+    "rarity": "Common"
+  },
+  {
+    "type": "Catfish",
+    "name": "Glass Catfish",
+    "size": 20,
+    "price": 9,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Catfish",
+    "name": "Gulper Catfish",
+    "size": 10,
+    "price": 50,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Phantom Tetra",
+    "size": 1,
+    "price": 2,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Neon tetra",
+    "size": 1,
+    "price": 10,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Skirt Tetra",
+    "size": 2,
+    "price": 4,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Bleeding Heart Tetra",
+    "size": 3,
+    "price": 9,
+    "rarity": "Common"
+  },
+  {
+    "type": "Tetra",
+    "name": "Buenos Aires Tetra",
+    "size": 3,
+    "price": 3,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Cardinal Tetra",
+    "size": 2,
+    "price": 2,
+    "rarity": "Common"
+  },
+  {
+    "type": "Tetra",
+    "name": "Diamond Tetra",
+    "size": 2,
+    "price": 5,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Tetra",
+    "name": "Ember Tetra",
+    "size": 1,
+    "price": 10,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Tetra",
+    "name": "Emperor Tetra",
+    "size": 2,
+    "price": 5,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Black Skirt Tetra",
+    "size": 1,
+    "price": 2,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Green Neon Tetra",
+    "size": 1,
+    "price": 13,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Tetra",
+    "name": "Lemon Tetra",
+    "size": 2,
+    "price": 5,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Tetra",
+    "name": "Neon Tetra",
+    "size": 1,
+    "price": 3,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Red Phantom Tetra",
+    "size": 2,
+    "price": 6,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Tetra",
+    "name": "Rummynose Tetra",
+    "size": 2,
+    "price": 2,
+    "rarity": "Common"
+  },
+  {
+    "type": "Tetra",
+    "name": "Serpae Tetra",
+    "size": 2,
+    "price": 3,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Tetra",
+    "name": "Silvertip Tetra",
+    "size": 1,
+    "price": 2,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Tetra",
+    "name": "Congo Tetra",
+    "size": 3,
+    "price": 7,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Hatchetfish
+    "name": "Common Hatchetfish",
+    "size": 2,
+    "price": 4,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Silver Dollar",
+    "name": "Silver Dollar",
+    "size": 6,
+    "price": 70,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Pacu",
+    "name": "Red Belly Pacu",
+    "size": 48,
+    "price": 12,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Piranha",
+    "name": "Red Belly Piranha",
+    "size": 13,
+    "price": 650,
+    "rarity": "Legendary"
+  },
+  {
+    "type": "Lake Malawi Cichlid",
+    "name": "Rusty Cichlid",
+    "size": 4,
+    "price": 15,
+    "rarity": "Uncommon"
+  },
+  {
+    "type": "Lake Malawi Cichlid",
+    "name": "Yellow Lab Cichlid",
+    "size": 8,
+    "price": 15,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Other African Cichlids",
+    "name": "Red Jewel Cichlid",
+    "size": 5,
+    "price": 260,
+    "rarity": "Legendary"
+  },
+  {
+    "type": "Other African Cichlids",
+    "name": "Flameback Cichlid",
+    "size": 5,
+    "price": 50,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Other African Cichlids",
+    "name": "Kribensis",
+    "size": 4,
+    "price": 15,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "Apistogramma Agassizii",
+    "size": 3,
+    "price": 60,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "Apistogramma Cacatuoides",
+    "size": 5,
+    "price": 50,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "German Blue Ram",
+    "size": 3,
+    "price": 8,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Dwarf Cichlids",
+    "name": "Bolivian Ram",
+    "size": 2,
+    "price": 15,
+    "rarity": "Epic"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Midas Cichlid",
+    "size": 14,
+    "price": 20,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Jack Dempsey Cichlid",
+    "size": 8,
+    "price": 25,
+    "rarity": "Rare"
   },
 ]
