@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Corydora",
+    "name": "Pygmy Corydoras",
+    "size": 1,
+    "price": 4
+  },
+  {
+    "type": "Corydora",
+    "name": "Panda Cory",
+    "size": 2,
+    "price": 8
+  },
+  {
+    "type": "Corydora",
+    "name": "Salt and Pepper Corydora",
+    "size": 1,
+    "price": 6
+  },
+  {
+    "type": "Corydora",
+    "name": "Sterbai Corydora",
+    "size": 3,
+    "price": 7
+  },
+  {
+    "type": "Corydora",
+    "name": "Julii Corydora",
+    "size": 2,
+    "price": 4.5
+  },
+  {
+    "type": "Plecostomus",
+    "name": "Common Pleco",
+    "size": "1",
+    "price": 6
+  },
+]
