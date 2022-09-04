@@ -203,7 +203,7 @@
     "rarity": "Epic"
   },
   {
-    "type": "Hatchetfish
+    "type": "Hatchetfish"
     "name": "Common Hatchetfish",
     "size": 2,
     "price": 4,
@@ -299,6 +299,20 @@
     "size": 14,
     "price": 20,
     "rarity": "Rare"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Jack Dempsey Cichlid",
+    "size": 8,
+    "price": 25,
+    "rarity": "Rare"
+  },
+  {
+    "type": "Central American Cichlid",
+    "name": "Convict Cichlid",
+    "size": 8,
+    "price": 7,
+    "rarity": "Common"
   },
   {
     "type": "Central American Cichlid",
