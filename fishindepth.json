@@ -207,14 +207,14 @@
     "name": "Common Hatchetfish",
     "size": 2,
     "price": 4,
-    "rarity": "Epic"
+    "rarity": "Common"
   },
   {
     "type": "Silver Dollar",
     "name": "Silver Dollar",
     "size": 6,
     "price": 70,
-    "rarity": "Epic"
+    "rarity": "Uncommon"
   },
   {
     "type": "Pacu",
